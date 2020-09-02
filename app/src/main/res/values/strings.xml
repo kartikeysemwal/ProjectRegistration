@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProjectRegistration</string>
+
+    <string-array name="country_array">
+        <item>India</item>
+        <item>Sri Lanka</item>
+    </string-array>
+    <string-array name="city_india">
+        <item>Mumbai</item>
+        <item>Chennai</item>
+    </string-array>
+    <string-array name="city_srilanka">
+        <item>Colombo</item>
+        <item>Moratuwa</item>
+    </string-array>
+
+
+</resources>
